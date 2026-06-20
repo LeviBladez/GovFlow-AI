@@ -41,9 +41,11 @@ cd GovFlow-AI
 Keep your dependencies isolated by creating a virtual environment:
  * **Mac/Linux:** ```python3 -m venv .venv```
  * **Windows:** ```python -m venv .venv```
+
 **3. Activate the Environment**
  * **Mac/Linux:** ```source .venv/bin/activate```
  * **Windows:** ```.venv\Scripts\activate```
+
 **4. Install Dependencies**
 ```
 pip install -r requirements.txt
