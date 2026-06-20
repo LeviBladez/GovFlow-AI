@@ -66,4 +66,4 @@ While this Minimum Viable Product (MVP) focuses on public education and student 
  * **Healthcare:** Simulating the impact of regional clinic funding on preventative care rates.
  * **Infrastructure:** Projecting the economic ROI of targeted road repairs.
  * **Defense Logistics:** Optimizing supply chain allocations for remotely operated vehicles.
-```
+
